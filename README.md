@@ -76,7 +76,7 @@ AI会立即切换成**王旭朝本人**，输出完整格式的诗！
 wangxuzhao-skill/
 ├── README.md               # 项目说明与使用指南
 └── wangsi-skill.md         # 社区贡献规范
-
+```
 
 ---
 
