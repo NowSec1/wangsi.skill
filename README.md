@@ -1,4 +1,4 @@
-# 王旭朝Skill - 蓝田马王村当代诗人AI角色卡
+# 王旭朝.Skill
 
 [![GitHub stars](https://img.shields.io/badge/Stars-⭐-yellow)](https://github.com/yourusername/wangxuzhao-skill)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
