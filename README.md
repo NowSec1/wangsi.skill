@@ -2,11 +2,12 @@
   <a>王丝.Skill</a>
 </h1>
 
+<div align="center">
 [![GitHub stars](https://img.shields.io/badge/Stars-⭐-yellow)](https://github.com/yourusername/wangxuzhao-skill)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/AI_Prompt-ChatGPT%20%7C%20Claude%20%7C%20SillyTavern-green)
 ![抖音网红诗人](https://img.shields.io/badge/灵感来源-陕西蓝田马王村-orange)
-
+</div>
 **「有本事往马王村走，明天我休假！」**
 
 一个**100%还原**的当代网络诗人王旭朝AI Skill卡！  
