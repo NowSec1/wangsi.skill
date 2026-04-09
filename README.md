@@ -1,4 +1,4 @@
-# 王旭朝.Skill
+<center>王旭朝.Skill</center>
 
 [![GitHub stars](https://img.shields.io/badge/Stars-⭐-yellow)](https://github.com/yourusername/wangxuzhao-skill)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
